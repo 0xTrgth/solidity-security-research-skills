@@ -18,6 +18,8 @@
 
 ## Root Cause
 
+## Assumptions
+
 ## Attack Preconditions
 
 ## Exploit Path
@@ -29,9 +31,13 @@
 
 ## Why This Is Valid
 
+## Why Existing Defenses Do Not Stop This
+
 ## Why This Might Look Safe At First
 
 ## False Positive Checks Performed
+
+## Suggested Test / PoC Direction
 
 ## Recommended Fix
 
