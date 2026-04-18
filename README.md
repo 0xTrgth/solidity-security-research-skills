@@ -1,4 +1,3 @@
-# solidity-audit-agents
 # Solidity Security Agent Prompts
 
 A prompt pack for AI agents that help review Solidity smart contract codebases.
